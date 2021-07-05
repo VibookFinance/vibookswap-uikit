@@ -35,7 +35,7 @@ export const Connected: React.FC = () => {
       >
         <div>
           <Heading as="h1" mb="8px">
-            Page body
+            Page body1
           </Heading>
           <Text as="p">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
